@@ -1,0 +1,3 @@
+name: caching-ts-pnpm
+runtime: nodejs
+description: A minimal project showing a Stack README

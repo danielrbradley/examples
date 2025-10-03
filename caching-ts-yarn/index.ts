@@ -1,0 +1,4 @@
+// Copyright 2016-2025, Pulumi Corporation.  All rights reserved.
+import { readFileSync } from "fs";
+export const strVar = "foo";
+export const arrVar = ["fizz", "buzz"];
